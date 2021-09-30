@@ -5,7 +5,7 @@ The HTML is checked for correctness.
 
 CircleCI:  Deploying on demo2.d1g.nl http://demo2.d1g.nl.s3-website-us-east-1.amazonaws.com
 
-If you want to use your own bucket, you need to specify so in .circlei/config.yml and create an AWS IAM User with the policy mentioned in policy.txt (and give CircleCI its API keys).
+If you want to use your own bucket,Then you need to specify so in .circlei/config.yml and create an AWS IAM User with the policy mentioned in policy.txt (and give CircleCI its API keys).
 
 Codeship: S3 Bucket:Demo.d1g.nl http://s3.eu-central-1.amazonaws.com/demo.d1g.nl/index.html 
 
